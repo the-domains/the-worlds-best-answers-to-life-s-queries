@@ -1,0 +1,28 @@
+name: "The Worlds Best Answers to Life's Queries "
+favicon: null
+layout_spectrum: 0.12602918059565127
+typography_spectrum: 0.0017794212326407433
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3787185465916991
+  lightness: 0.12969143455848098
+  saturation: 0.8295264269690961
+  rhythmicContrast: 0.7372445242945105
+purpose: []
